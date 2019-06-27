@@ -1,2 +1,2 @@
 # JavaScript
-JavaScript for web Interviews Challenge
+JavaScript Interview Challenge for web developers
